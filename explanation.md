@@ -1,5 +1,6 @@
 <html>
 <head>
+#how-Browsers-Work
 </head>
 <body>
 <p>A browser has a UI (user interface) that most commonly includes an address bar, back/forward button, and reload button.</P>
