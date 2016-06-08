@@ -1,7 +1,4 @@
-<html>
-<head>
 #how-Browsers-Work
-</head>
 <body>
 <p>A browser has a UI (user interface) that most commonly includes an address bar, back/forward button, and reload button.</P>
 <p>When you navigate to a URL in the address bar you are making a “request” for the content at that URL.</P>
@@ -20,7 +17,7 @@
 <p>As the browser is rendering the HTML it will find tagsthat require files from other URLs.</p>
 <p>The browser will send a request to the web server to get each of these files.</p>
 </body>
-</html>
+
 
 
 
