@@ -1,4 +1,4 @@
-#how Browsers Work
+#how-Browsers-Work
 A browser has a UI (user interface) that most commonly includes an address bar, back/forward button, and reload button. Sometimes developers refer to this as the “chrome” (little “c”, not Chrome by Google) of a browser. When you navigate to a URL in the address bar you are making a “request” for the content at that URL.
 
 That URL you typed into the address bar maps to an IP address. This is called a DNS lookup. DNS stands for “Domain Name System” and it maps numeric computer addresses to human readable names. All computers have an IP addres
